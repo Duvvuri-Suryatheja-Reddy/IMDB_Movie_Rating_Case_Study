@@ -5,5 +5,5 @@ You have the data for the 100 top-rated movies from the past decade along with v
 ### Files
 
 - 'Movie+Assignment+Data.csv' contains the data used for analysis
-- 'Movie+Assignment+Data+Dictionary' contains the description of columns used in the Movie+Assignment+Data file
+- 'Movie+Assignment+Data+Dictionary.xlsx' contains the description of columns used in the Movie+Assignment+Data file
 - 'IMDb+Movie+Assignment.ipynb' contains the code for data analysis
